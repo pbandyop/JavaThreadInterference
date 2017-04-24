@@ -1,3 +1,6 @@
+//Source: https://github.com/gomson/java-creed-examples/tree/master/concurrency
+// Edited: Payel Bandyopadhyay Dated: April 24, 2017
+
 public class Data {
 
 	  private int value;
