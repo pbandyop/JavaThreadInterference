@@ -14,8 +14,8 @@ public class Data {
 	  } */
 	  
 	  public int setValue(int value) {
-		   this.value = value;
-		   return value;
-		  }
+		this.value = value;
+		return value;
+		}
 
 }
